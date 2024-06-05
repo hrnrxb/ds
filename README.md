@@ -1,14 +1,15 @@
-# Data Structure's Assignments Solution - Semester Spring 2024 - Dr Eskandari
+# Data Structure's Assignments Solution - Semester Spring 2024 - Dr. Eskandari
 
-Welcome to the repository containing solutions to the data structure assignments for the Spring 2024 semester, taught by Dr. Skandari. This README provides an overview of the repository's structure and the solutions provided.
+Welcome to the repository containing solutions to the data structure assignments for the Spring 2024 semester, taught by Dr. Eskandari. This README provides an overview of the repository's structure and the solutions provided.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Assignment Solutions](#assignment-solutions)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
+1. [i-th element of Queue problem](https://github.com/hrnrxb/ds/blob/main/i-th%20element%20of%20Queue%20problem.ipynb)
+   
+2. [Polynomial problem with 5 section menu](https://github.com/hrnrxb/ds/blob/main/polynomial%20problem%20with%205%20section%20menu.ipynb)
+   
+3. [Heap sort](https://github.com/hrnrxb/ds/blob/main/Heap%20sort.ipynb)
+
 
 ## Introduction
 
