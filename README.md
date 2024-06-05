@@ -1,4 +1,4 @@
-# Data Structure's Assignments Solution - Semester Spring 2024 - Dr Skandari
+# Data Structure's Assignments Solution - Semester Spring 2024 - Dr Eskandari
 
 Welcome to the repository containing solutions to the data structure assignments for the Spring 2024 semester, taught by Dr. Skandari. This README provides an overview of the repository's structure and the solutions provided.
 
@@ -19,4 +19,4 @@ This repository contains solutions to the data structure assignments for the cou
 To get started with the repository, clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/data-structures-spring2024.git
+git clone https://github.com/hrnrxb/ds.git
